@@ -1,5 +1,5 @@
 # 💫 Über Mich:
-🔭 Ich arbeite derzeit an Minecraft Plugins<br>🌱 Ich lerne gerade Java<br>💬 Wenn du fragen hast dann Frage<br>⚡ Fun fact: Noch kann ich nicht programmieren!
+🔭 Ich arbeite derzeit an Minecraft Plugins<br>🌱 Ich lerne gerade Java<br>💬 Wenn du fragen hast dann Frag!<br>⚡ Fun fact: Noch kann ich nicht programmieren!
 
 
 ## 🌐 Socials:
